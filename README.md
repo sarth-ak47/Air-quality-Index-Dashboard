@@ -1,4 +1,4 @@
-# Air-quality-Index-Dashboardrd
+# Air-quality-Index-Dashboard
 📌 Key Features
 📍 Location-based AQI insights (City/State level)
 
