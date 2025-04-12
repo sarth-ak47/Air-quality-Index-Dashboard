@@ -11,20 +11,20 @@
 🚦 Conditional formatting & data cards to highlight high-risk zones
 
 🎛️ Slicers & interactivity for user-controlled data exploration
-
+------------------------------------------------------------------------------------------
 🧪 Tools Used
 Microsoft Excel
 
 Pivot Tables & Charts
 
 Slicers and Conditional Formatting
-
+------------------------------------------------------------------------------------------
 📊 Purpose
 To create a visually intuitive and user-friendly tool that raises awareness about air pollution, using publicly available environmental datasets from data.gov.in.
-
+------------------------------------------------------------------------------------------
 🚀 Get Started
 Download the .xlsx file, open it in Excel, and start exploring the AQI data using the slicers and visual filters.
-
+------------------------------------------------------------------------------------------
 🧵 Future Enhancements
 Integrate with Power BI or Tableau for real-time data pulls
 
