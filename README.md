@@ -41,5 +41,7 @@ Add predictive trends using seasonal decomposition
 Embed visual insights into web dashboards
 
 -------------------------------------------------------------------------------------------
-![image](https://github.com/user-attachments/assets/b90377b3-8066-44ea-8431-6075b0697af2)
+
+![image](https://github.com/user-attachments/assets/91fcc0fd-ab99-4210-b645-a31c3ca1d7cf)
+
 
